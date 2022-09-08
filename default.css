@@ -1,0 +1,10 @@
+:root{
+
+    --main-color: #ff6347;
+    --grey-color: #D9D9D9;
+--linear-color:var(--linear-color);
+--white-color: #fff;
+--black-color:#000;
+--blackborder: 3px solid var(--black-color)
+}
+

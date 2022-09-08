@@ -1,0 +1,54 @@
+@media screen and (max-width: 800px) {
+    body{
+        /* background: black; */
+    }
+.firstsection{
+    height: 520px;
+}    
+.firstsection-leftdiv{
+    width: 60%;
+    padding: 20px;
+}
+.firstsection-leftdiv h1{
+    font-size: 25px;
+}
+
+.firstsection-rightdiv{
+    width: 40%;
+}
+.linkholder{
+    padding-left: 30px;
+    flex-direction: column;
+}
+.linkholder h4{
+    flex-direction: column;
+    padding-left: 30px;
+    
+}
+.line{
+    width: 150px;
+
+
+
+    
+}
+.secondsection{
+    flex-direction: column;
+
+}
+.secondsection-rightdiv{
+    margin-left: 0;
+    margin-top: 30px;
+}
+
+
+.thirdsection{
+    flex-direction: column-reverse;
+    text-align: center;
+}
+footer{
+    flex-direction: column;
+    text-align: center;
+}
+    
+}
